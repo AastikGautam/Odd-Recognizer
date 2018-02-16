@@ -9,11 +9,11 @@ public class W6D5StudyHallExampler {
 	 * <p> Description: A demonstration of the mechanical translation of Finite State Machine 
 	 * diagram into an executable Java program using the EvenNumber Recognizer. </p>
 	 * 
-	 * <p> Copyright: Lynn Robert Carter © 2018 </p>
+	 * <p> Copyright: Aastik Gautam © 2018 </p>
 	 * 
-	 * @author Lynn Robert Carter
+	 * @author  Aastik Gautam
 	 * 
-	 * @version 0.00	2018-01-28	Initial baseline 
+	 * @version 1.00	2018-02-16	Odd Number Recognizer 
 	 * 
 	 */
 	
